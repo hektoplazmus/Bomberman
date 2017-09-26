@@ -1,0 +1,4 @@
+<map id="CGame::OpenServer" name="CGame::OpenServer">
+<area shape="rect" id="node2" href="$classCGame.html#ab82e37bfe1d0a98497461de386dec2a7" title="Open server socket. " alt="" coords="197,5,361,32"/>
+<area shape="rect" id="node3" href="$classCGame.html#a00d8159d75de04e3ce5a622310df6393" title="serve the client and manipulates with opponent player. " alt="" coords="209,56,350,83"/>
+</map>

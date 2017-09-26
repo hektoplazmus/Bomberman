@@ -1,0 +1,24 @@
+<map id="CGame::CGame" name="CGame::CGame">
+<area shape="rect" id="node2" href="$classCMap.html#a419f58263e84f8b727942de6a4701cf1" title="Parse map file and creates matrix of objects according to the file Also creates game window and initi..." alt="" coords="188,5,303,32"/>
+<area shape="rect" id="node3" href="$classErrorMessage.html#a408619e667ff083edd9c3fa64cfb4679" title="Draw error window on the screen and prints error message. " alt="" coords="176,56,315,83"/>
+<area shape="rect" id="node4" href="$classCGame.html#a7a71030d414be353b762abae36a55289" title="CGame::OpenServer" alt="" coords="173,107,317,133"/>
+<area shape="rect" id="node7" href="$classCGame.html#a0b18dc6e1c1da6b1102f72a46093aa9c" title="CGame::OpenClient" alt="" coords="175,157,315,184"/>
+<area shape="rect" id="node8" href="$classCGame.html#a49a705dce78b109498ed67b81dd349ad" title="Main game loop. " alt="" coords="178,335,313,361"/>
+<area shape="rect" id="node5" href="$classCGame.html#ab82e37bfe1d0a98497461de386dec2a7" title="Open server socket. " alt="" coords="378,56,542,83"/>
+<area shape="rect" id="node6" href="$classCGame.html#a00d8159d75de04e3ce5a622310df6393" title="serve the client and manipulates with opponent player. " alt="" coords="389,107,531,133"/>
+<area shape="rect" id="node9" href="$classCGame.html#aac6cbeaaa1544128ad650b0dada8ba3d" title="Thread which checks key presses and manipulate with players. " alt="" coords="397,157,523,184"/>
+<area shape="rect" id="node13" href="$classCPlayer.html#a3f8330f5f88973f76dd18e7ca37ebeb4" title="Get player animation offsets to draw screen in motion. " alt="" coords="375,208,545,235"/>
+<area shape="rect" id="node14" href="$classCPlayer.html#a789f86727f879c27783531a3207e5759" title="Call all functions to update the player status. " alt="" coords="397,259,523,285"/>
+<area shape="rect" id="node15" href="$classCMap.html#a33f22a516f9919a3373e803317ffc4ab" title="Draw all objects in their draw positions and tick all flames. " alt="" coords="407,309,513,336"/>
+<area shape="rect" id="node17" href="$classCMap.html#a2b84b75b46f3b6885b51f9254f51676b" title="Returns the position of Camera. " alt="" coords="394,360,526,387"/>
+<area shape="rect" id="node18" href="$classCPlayer.html#ac1eac732e2f89ecca66d4870cb02ea75" title="Draw player on screen game_win. " alt="" coords="406,411,514,437"/>
+<area shape="rect" id="node19" href="$classCPlayer.html#a4000a386e6e3f2b08d946d8457a995ed" title="Check if player is in flame. " alt="" coords="408,461,512,488"/>
+<area shape="rect" id="node20" href="$classCGame.html#a3c1a430b94d80f5b73ef9e9cf1a5662f" title="Prints bottom bar with information about active bonuses of main player. " alt="" coords="376,512,544,539"/>
+<area shape="rect" id="node23" href="$classCGame.html#a35f3bfe8a0997696f65b202528a0f793" title="Prints end game window with information who won. " alt="" coords="365,563,555,589"/>
+<area shape="rect" id="node10" href="$classCPlayer.html#ae87f3ef93892027c89826833e8775a10" title="Place a bomb on the map. " alt="" coords="608,107,752,133"/>
+<area shape="rect" id="node11" href="$classCPlayer.html#aeb3528befc48c6c170d893a74d811294" title="Move player to target direction. " alt="" coords="625,157,735,184"/>
+<area shape="rect" id="node12" href="$classCGame.html#a59316197bd1aebcc037f3a95f8921af5" title="Sends data to opponent. " alt="" coords="603,208,757,235"/>
+<area shape="rect" id="node16" href="$classCObject.html#a8d6f0a12ba7c847072a1a639f91c18ee" title="CObject::BonusType" alt="" coords="608,309,752,336"/>
+<area shape="rect" id="node21" href="$classCPlayer.html#a341c2ba8a29169e3cc8153fc70d92ce5" title="CPlayer::UsingBonus" alt="" coords="606,512,754,539"/>
+<area shape="rect" id="node22" href="$classCPlayer.html#a11d1135b5d1055a4f66e3eef5d64c8fe" title="Set upgrades to the player for current active bonus type. " alt="" coords="805,512,967,539"/>
+</map>

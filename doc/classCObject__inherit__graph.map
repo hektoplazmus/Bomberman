@@ -1,0 +1,7 @@
+<map id="CObject" name="CObject">
+<area shape="rect" id="node2" href="$classCBomb.html" title="Bomb object which explodes after time. " alt="" coords="5,219,144,399"/>
+<area shape="rect" id="node3" href="$classCBonus.html" title="Bonus object which can be picked up by a player. " alt="" coords="169,241,277,377"/>
+<area shape="rect" id="node4" href="$classCBox.html" title="Box object which can be destroyed by bombs. " alt="" coords="301,241,409,377"/>
+<area shape="rect" id="node5" href="$classCFlame.html" title="Flame object which can kill players. " alt="" coords="433,226,545,391"/>
+<area shape="rect" id="node6" href="$classCSolid.html" title="Solid object, player can not move on it. " alt="" coords="570,241,678,377"/>
+</map>

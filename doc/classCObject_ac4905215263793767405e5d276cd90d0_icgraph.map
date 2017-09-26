@@ -1,0 +1,8 @@
+<map id="CObject::Draw" name="CObject::Draw">
+<area shape="rect" id="node2" href="$classCObject.html#adab4f75d2863e088087cd4556f8f37ad" title="Empty destructor to call destructor of inherited classes. " alt="" coords="181,5,315,32"/>
+<area shape="rect" id="node3" href="$classCSolid.html#ac65b3db320e0542ba8ea182d37143463" title="CSolid::BonusType" alt="" coords="181,56,315,83"/>
+<area shape="rect" id="node4" href="$classCBox.html#a71a2e7fdfe9edc9dab4da168a02585f3" title="CBox::BonusType" alt="" coords="183,107,313,133"/>
+<area shape="rect" id="node5" href="$classCFlame.html#a60f9d624f2cdd6966f5a7a6027126dd1" title="CFlame::BonusType" alt="" coords="177,157,319,184"/>
+<area shape="rect" id="node6" href="$classCBomb.html#a7d3cfb22e90fcd01142b2d13dd2a2c02" title="Reduce the bomb timer to speed up the detonation. " alt="" coords="163,208,333,235"/>
+<area shape="rect" id="node7" href="$classCBonus.html#a11acb38cdf9a6365d7b8e24e68838f58" title="CBonus::BonusType" alt="" coords="177,259,319,285"/>
+</map>

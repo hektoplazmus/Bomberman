@@ -1,0 +1,4 @@
+<map id="CBomb::Detonate" name="CBomb::Detonate">
+<area shape="rect" id="node2" href="$classCMap.html#a34b5861dbae766ecbcf343914a831491" title="Creates flame in specific position. " alt="" coords="180,5,320,32"/>
+<area shape="rect" id="node3" href="$classCObject.html#a8d6f0a12ba7c847072a1a639f91c18ee" title="CObject::BonusType" alt="" coords="368,5,512,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classCBomberman.html#a7c6eb86c315df4876c5ed4a089ce2e7f" title="Initialize menu window and all ncurses values. " alt="" coords="107,5,235,32"/>
+<area shape="rect" id="node3" href="$classCBomberman.html#aa5cf070e6cebc44d65f5845aac586412" title="Start the menu loop and allow player to interact with menu buttons Player can chose map..." alt="" coords="104,56,239,83"/>
+</map>

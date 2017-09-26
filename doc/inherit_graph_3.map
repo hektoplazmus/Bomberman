@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCObject.html" title="Class of objects on the map. " alt="" coords="5,107,76,133"/>
+<area shape="rect" id="node2" href="$classCBomb.html" title="Bomb object which explodes after time. " alt="" coords="125,5,192,32"/>
+<area shape="rect" id="node3" href="$classCBonus.html" title="Bonus object which can be picked up by a player. " alt="" coords="124,56,193,83"/>
+<area shape="rect" id="node4" href="$classCBox.html" title="Box object which can be destroyed by bombs. " alt="" coords="131,107,186,133"/>
+<area shape="rect" id="node5" href="$classCFlame.html" title="Flame object which can kill players. " alt="" coords="125,157,193,184"/>
+<area shape="rect" id="node6" href="$classCSolid.html" title="Solid object, player can not move on it. " alt="" coords="128,208,189,235"/>
+</map>

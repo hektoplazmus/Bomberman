@@ -1,0 +1,4 @@
+<map id="CPlayer" name="CPlayer">
+<area shape="rect" id="node2" href="$classPlayer__AI.html" title="AI player class. " alt="" coords="5,497,105,619"/>
+<area shape="rect" id="node3" href="$classPlayer__Not__AI.html" title="Controllable player class. " alt="" coords="129,512,256,604"/>
+</map>

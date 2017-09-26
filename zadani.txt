@@ -1,0 +1,14 @@
+Klasická hra Bomberman.
+
+Implementujte následující herní módy:
+
+    pro alespoň 2 hráče na jednom počítači,
+    pro alespoň 2 hráče na více počítačích (síťové rozhraní),
+    pro hru proti počítači (škálovatelná umělá inteligence).
+
+Hra musí splňovat následující funkcionality:
+
+    načítání herních levelů (mapy) ze souboru (vytvořte vhodný formát),
+    sbírání bonusů (zvětšení plamenu, více bomb, odpalování bomb na dálku, rychlejší chození, ...).
+
+https://en.wikipedia.org/wiki/Bomberman

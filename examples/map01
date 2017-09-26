@@ -1,0 +1,16 @@
+#Example map 01
+#X = unbreacable block
+#O = breacable boxes
+#P = Players
+#S = speed bonus
+#F = Flame range bonus
+#B = more bombs bonus
+#M = manual detonation of bombs bonus
+XXXXXXXXXXXXXXXXXX
+XOO    OOSO    OOX
+X           P   OX
+X OOOFOB  MFOOOO X
+X OOOOSO  OOOOOO X
+X   P           OX
+XOO    BOMO    OOX
+XXXXXXXXXXXXXXXXXX

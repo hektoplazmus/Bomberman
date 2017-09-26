@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCPlayer.html" title="Main player class, contains all player values (position on the map, active bonuses ..." alt="" coords="5,31,75,57"/>
+<area shape="rect" id="node2" href="$classPlayer__AI.html" title="AI player class. " alt="" coords="137,5,215,32"/>
+<area shape="rect" id="node3" href="$classPlayer__Not__AI.html" title="Controllable player class. " alt="" coords="123,56,229,83"/>
+</map>

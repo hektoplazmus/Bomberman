@@ -1,0 +1,5 @@
+<map id="CPlayer::UsingBonus" name="CPlayer::UsingBonus">
+<area shape="rect" id="node2" href="$classCGame.html#a3c1a430b94d80f5b73ef9e9cf1a5662f" title="Prints bottom bar with information about active bonuses of main player. " alt="" coords="201,5,369,32"/>
+<area shape="rect" id="node3" href="$classCGame.html#a49a705dce78b109498ed67b81dd349ad" title="Main game loop. " alt="" coords="417,5,552,32"/>
+<area shape="rect" id="node4" href="$classCGame.html#a2a46be0af387867e22873e709bf067b9" title="Constructor to initialize the game. " alt="" coords="600,5,720,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CGame::KeyLoop" name="CGame::KeyLoop">
+<area shape="rect" id="node2" href="$classCPlayer.html#ae87f3ef93892027c89826833e8775a10" title="Place a bomb on the map. " alt="" coords="185,5,329,32"/>
+<area shape="rect" id="node3" href="$classCPlayer.html#aeb3528befc48c6c170d893a74d811294" title="Move player to target direction. " alt="" coords="203,56,312,83"/>
+<area shape="rect" id="node4" href="$classCGame.html#a59316197bd1aebcc037f3a95f8921af5" title="Sends data to opponent. " alt="" coords="180,107,335,133"/>
+</map>

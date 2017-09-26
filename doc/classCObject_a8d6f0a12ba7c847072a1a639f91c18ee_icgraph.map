@@ -1,0 +1,7 @@
+<map id="CObject::BonusType" name="CObject::BonusType">
+<area shape="rect" id="node2" href="$classCMap.html#a33f22a516f9919a3373e803317ffc4ab" title="Draw all objects in their draw positions and tick all flames. " alt="" coords="214,5,321,32"/>
+<area shape="rect" id="node5" href="$classCMap.html#a34b5861dbae766ecbcf343914a831491" title="Creates flame in specific position. " alt="" coords="197,56,337,83"/>
+<area shape="rect" id="node3" href="$classCGame.html#a49a705dce78b109498ed67b81dd349ad" title="Main game loop. " alt="" coords="385,5,520,32"/>
+<area shape="rect" id="node4" href="$classCGame.html#a2a46be0af387867e22873e709bf067b9" title="Constructor to initialize the game. " alt="" coords="568,5,688,32"/>
+<area shape="rect" id="node6" href="$classCBomb.html#a19dbb1dc004182c3ce4fe1821961903d" title="Detonate the bomb and create flame on the map. " alt="" coords="389,56,516,83"/>
+</map>

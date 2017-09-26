@@ -1,0 +1,10 @@
+<map id="CPlayer::CPlayer" name="CPlayer::CPlayer">
+<area shape="rect" id="node2" href="$classCPlayer.html#ad02df04887bccfe3b82298895da24af6" title="Destructor detonates all bombs which were placed by this player. " alt="" coords="214,5,346,32"/>
+<area shape="rect" id="node3" href="$classCPlayer.html#ac1eac732e2f89ecca66d4870cb02ea75" title="Draw player on screen game_win. " alt="" coords="226,56,334,83"/>
+<area shape="rect" id="node4" href="$classCPlayer.html#aa006cfb7adecb7c1b987d8e552c53f3d" title="Check if bombs are going to explode and then create flame on the map. " alt="" coords="209,107,351,133"/>
+<area shape="rect" id="node5" href="$classCPlayer.html#a789f86727f879c27783531a3207e5759" title="Call all functions to update the player status. " alt="" coords="217,157,343,184"/>
+<area shape="rect" id="node6" href="$classCPlayer.html#a4000a386e6e3f2b08d946d8457a995ed" title="Check if player is in flame. " alt="" coords="228,208,332,235"/>
+<area shape="rect" id="node7" href="$classCPlayer.html#aeb3528befc48c6c170d893a74d811294" title="Move player to target direction. " alt="" coords="225,259,335,285"/>
+<area shape="rect" id="node8" href="$classCPlayer.html#ae87f3ef93892027c89826833e8775a10" title="Place a bomb on the map. " alt="" coords="208,309,352,336"/>
+<area shape="rect" id="node9" href="$classCPlayer.html#af0c3212a4c234751096ed2256a082574" title="Recalculate player move animation offsets. " alt="" coords="177,360,383,387"/>
+</map>

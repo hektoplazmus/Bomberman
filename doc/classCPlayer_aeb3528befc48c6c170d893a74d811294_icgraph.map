@@ -1,0 +1,6 @@
+<map id="CPlayer::Move" name="CPlayer::Move">
+<area shape="rect" id="node2" href="$classCGame.html#aac6cbeaaa1544128ad650b0dada8ba3d" title="Thread which checks key presses and manipulate with players. " alt="" coords="163,5,289,32"/>
+<area shape="rect" id="node5" href="$classCPlayer.html#a12484cdb8e3a5132b8562b38aa4d634b" title="CPlayer::CPlayer" alt="" coords="164,56,288,83"/>
+<area shape="rect" id="node3" href="$classCGame.html#a49a705dce78b109498ed67b81dd349ad" title="Main game loop. " alt="" coords="337,5,472,32"/>
+<area shape="rect" id="node4" href="$classCGame.html#a2a46be0af387867e22873e709bf067b9" title="Constructor to initialize the game. " alt="" coords="520,5,640,32"/>
+</map>

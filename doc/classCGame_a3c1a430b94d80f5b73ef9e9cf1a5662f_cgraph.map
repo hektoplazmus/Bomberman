@@ -1,0 +1,4 @@
+<map id="CGame::DrawBottomBar" name="CGame::DrawBottomBar">
+<area shape="rect" id="node2" href="$classCPlayer.html#a341c2ba8a29169e3cc8153fc70d92ce5" title="CPlayer::UsingBonus" alt="" coords="221,5,369,32"/>
+<area shape="rect" id="node3" href="$classCPlayer.html#a11d1135b5d1055a4f66e3eef5d64c8fe" title="Set upgrades to the player for current active bonus type. " alt="" coords="417,5,579,32"/>
+</map>

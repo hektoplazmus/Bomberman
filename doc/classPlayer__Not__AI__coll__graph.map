@@ -1,0 +1,4 @@
+<map id="Player_Not_AI" name="Player_Not_AI">
+<area shape="rect" id="node2" href="$classCPlayer.html" title="Main player class, contains all player values (position on the map, active bonuses ..." alt="" coords="39,5,210,435"/>
+<area shape="rect" id="node3" href="$classCMap.html" title="Class containing whole map of game with CObjects. " alt="" coords="157,497,282,765"/>
+</map>
